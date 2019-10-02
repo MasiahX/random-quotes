@@ -1,5 +1,16 @@
 .App {
   text-align: center;
+  display: flex;
+
+}
+
+.img {
+
+}
+
+._quote {
+  width: 50%;
+  order: 1;
 }
 
 .App-logo {
